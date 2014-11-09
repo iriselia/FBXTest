@@ -18,6 +18,7 @@ build/
 bld/
 [Bb]in/
 lib/
+!lib/x86/*
 *.exe
 *.dll
 
